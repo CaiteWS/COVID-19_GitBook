@@ -6,7 +6,3 @@ description: >-
 
 # Introduction
 
-LIS 598 - Data Curation II, Dr. Nicholas Weber, University of Washington, iSchool, Spring 2020 
-
-Team Members: Anna E. Riso and Caitlin W. Smith
-
