@@ -4,7 +4,7 @@ description: >-
   Repository
 ---
 
-# COVID-19\_GitBook
+# COVID-19 Open Data in U.S. Cities
 
 LIS 598 - Data Curation II, Dr. Nicholas Weber, University of Washington, iSchool, Spring 2020 
 

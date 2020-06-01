@@ -1,6 +1,6 @@
 # Table of contents
 
-* [COVID-19\_GitBook](README.md)
+* [COVID-19 Open Data in U.S. Cities](README.md)
 * [Introduction](introduction.md)
 * [1 Project Definition, Scope, and Audience](1-project-definition-scope-and-audience.md)
 * [2 User Stories and Use Case](2-user-stories-and-use-case.md)
