@@ -9,6 +9,6 @@
 * [3 Metadata Needs and Proposed Schema](3-metadata-needs-and-proposed-schema.md)
 * [3.1 Metadata Elements Table](3.1-metadata-elements-table.md)
 * [3.2 Proposed Schema](3.2-proposed-schema.md)
-* [4 Transformation Policy](7-transformation-policy.md)
+* [4 Transfer and Transformation](7-transformation-policy.md)
 * [5 Concluding Notes](10-concluding-notes.md)
 
