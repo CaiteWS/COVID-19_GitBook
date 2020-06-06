@@ -10,7 +10,7 @@ This project will collect open data from multiple municipalities in an effort to
 
 The data should be open-source and downloadable, giving us the ability to standardize and create common metadata elements for clarity. Data should be updated frequently in accordance with a published schedule to ensure constancy and the recency of the data. 
 
-We explored data from multiple locations: Cincinnati, Las Vegas, Los Angeles, Buffalo, San Francisco, Boulder, Washtenaw County \(MI\), Cumberland County \(NC\), State of Hawaii, State of Virginia, Seattle, Austin, and Chicago. While all of these municipalities, states, and counties offered helpful data visualizations, only Austin, Chicago, and Virginia makes their data public and downloadable. Virginia, in particular, offered robust datasets.
+We explored data from multiple locations: Cincinnati, Las Vegas, Los Angeles, Buffalo, San Francisco, Boulder, Washtenaw County \(MI\), Cumberland County \(NC\), State of Hawaii, State of Virginia, Seattle, Austin, and Chicago. While all of these municipalities, states, and counties offered helpful data visualizations, only Austin, Chicago, and Virginia makes their data public and downloadable. Virginia, in particular, offered robust open datasets.
 
 Data will be curated from the following open data sources: 
 
