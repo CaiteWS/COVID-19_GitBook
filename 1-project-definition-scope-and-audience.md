@@ -22,3 +22,5 @@ Seattle: [https://www.kingcounty.gov/depts/health/covid-19/data.aspx](https://ww
 
 State of Virginia: [https://www.vdh.virginia.gov/coronavirus/](https://www.vdh.virginia.gov/coronavirus/) [https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-Cases.csv](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-Cases.csv)
 
+
+
