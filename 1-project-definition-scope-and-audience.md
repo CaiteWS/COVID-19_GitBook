@@ -1,3 +1,9 @@
+---
+description: >-
+  COVID-19 Open Data in U.S. Cities: Curation Protocol for a COVID-19 Data
+  Repository
+---
+
 # 1 Project Definition, Scope, and Audience
 
 This project will collect open data from multiple municipalities in an effort to compare COVID-19 response and help public health officers, researchers, and analysts find trends and share information. The data are collected on multiple platforms such as Socrata and ArcGIS and have diverse metadata elements. We expect to standardize the data, making it easier to study and analyze. ‌
