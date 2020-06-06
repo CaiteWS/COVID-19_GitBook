@@ -4,5 +4,11 @@ description: >-
   Repository
 ---
 
-# 4 Transfer and Transformation
+# 4 Transfer and Transformation Policies
+
+**Transfer Policy**
+
+\*\*\*\*
+
+**Transformation Policy**
 
