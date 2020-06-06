@@ -1,7 +1,6 @@
 # Table of contents
 
 * [COVID-19 Open Data in U.S. Cities](README.md)
-* [Introduction](introduction.md)
 * [1 Project Definition, Scope, and Audience](1-project-definition-scope-and-audience.md)
 * [2 User Stories and Use Cases](2-user-stories-and-use-case.md)
 * [2.1 User Stories](2.1-user-stories.md)

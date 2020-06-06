@@ -1,2 +1,2 @@
-# 2 User Stories and Use Case
+# 2 User Stories and Use Cases
 
