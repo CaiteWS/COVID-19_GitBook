@@ -12,3 +12,5 @@ San Francisco: [https://data.sfgov.org/COVID-19/COVID-19-Cases-Summarized-by-Dat
 
 Seattle: [https://www.kingcounty.gov/depts/health/covid-19/data.aspx](https://www.kingcounty.gov/depts/health/covid-19/data.aspx)
 
+State of Virginia: [https://www.vdh.virginia.gov/coronavirus/](https://www.vdh.virginia.gov/coronavirus/) [https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-Cases.csv](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-Cases.csv)
+
