@@ -6,5 +6,5 @@ description: >-
 
 # 4 Transfer and Transformation Policies
 
-In this section we establish and outline policies for what we do with collected or deposited data in the COVID--19 repository.
+In this section, we establish and outline policies for what we do with collected or deposited data in the COVID--19 repository.
 
