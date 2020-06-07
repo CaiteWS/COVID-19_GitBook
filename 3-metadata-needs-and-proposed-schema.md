@@ -6,3 +6,5 @@ description: >-
 
 # 3 Metadata Application Profile
 
+This section contains information about the Metadata Application Profile \(in the form of a linked Google Sheet\) and the proposed schema.
+

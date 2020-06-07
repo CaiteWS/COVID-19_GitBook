@@ -8,7 +8,7 @@
 * [3 Metadata Application Profile](3-metadata-needs-and-proposed-schema.md)
 * [3.1 Metadata Elements Table](3.1-metadata-elements-table.md)
 * [3.2 Proposed Schema](3.2-proposed-schema.md)
-* [4 Transfer and Transformation Policies](7-transformation-policy.md)
+* [4 Transfer and Transformation Policies](4-transformation-policy.md)
 * [4.1 Transfer Policy](4.1-transfer-policy.md)
 * [4.2 Transformation Policy](4.2-transformation-policy.md)
 * [5 Concluding Notes](10-concluding-notes.md)
